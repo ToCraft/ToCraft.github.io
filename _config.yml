@@ -1,7 +1,7 @@
 # Site settings
 title: ToCraft
 email: development@tocraft.dev
-description: I'm a software developer and also very interested in Minecraft Modding.
+description: I'm a software developer and also interested in Minecraft Modding.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tocraft.dev" # the base hostname & protocol for your site
 author: ToCraft
@@ -22,6 +22,7 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url:
+patreon_url: https://www.patreon.com/ToCraft
 
 # Build settings
 markdown: kramdown
