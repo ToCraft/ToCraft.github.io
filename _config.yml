@@ -1,7 +1,7 @@
 # Site settings
 title: ToCraft
 email: development@tocraft.dev
-description: I'm a private developer and also very interested in Minecraft Modding.
+description: I'm a software developer and also very interested in Minecraft Modding.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tocraft.dev" # the base hostname & protocol for your site
 author: ToCraft
@@ -11,8 +11,6 @@ state:
 zip_code:
 country: Germany
 phone:
-
-icon: fa-diamond # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:

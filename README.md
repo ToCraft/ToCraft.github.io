@@ -21,9 +21,6 @@ and [creating pages](https://jekyllrb.com/docs/pages/).
 
 You can use the following custom parameters in `_config.yml`.
 
-## Site Icon
-- `icon` sets the class for your site's [Font Awesome](http://fontawesome.io/icons/) icon.
-
 ## Social settings
 - `500px_url`
 - `facebook_url`
